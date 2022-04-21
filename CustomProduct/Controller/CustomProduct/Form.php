@@ -8,6 +8,7 @@ use Magento\Framework\View\Result\PageFactory;
 class Form extends \Magento\Backend\App\Action
 {
     /**
+     *
      * @var PageFactory
      */
     private $pageFactory;
